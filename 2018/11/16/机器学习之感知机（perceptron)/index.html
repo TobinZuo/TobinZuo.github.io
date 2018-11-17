@@ -343,6 +343,23 @@
 
 
 
+<section class="comments" id="comments">
+    <div id="gitment_thread"></div>
+    <link rel="stylesheet" href="//unpkg.com/gitment/style/default.css">
+    <script src="//unpkg.com/gitment/dist/gitment.browser.js"></script>
+    <script>
+        var gitment = new Gitment({
+            owner: 'TobinZuo',
+            repo: 'TobinZuo.github.io',
+            oauth: {
+                client_id: 'b5aeb30ae9e5c0c5ed83',
+                client_secret: '3be688153bf5c0827d8579aa551c6f336492b293',
+            },
+        })
+        gitment.render('comments')
+    </script>
+</section>
+
 
 
 
