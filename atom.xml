@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tobinzuo.github.io/"/>
-  <updated>2018-11-17T04:57:18.769Z</updated>
+  <updated>2018-11-17T07:19:14.429Z</updated>
   <id>http://tobinzuo.github.io/</id>
   
   <author>
@@ -17,26 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我想和这个世界谈谈</title>
-    <link href="http://tobinzuo.github.io/2018/11/17/hello-world/"/>
-    <id>http://tobinzuo.github.io/2018/11/17/hello-world/</id>
+    <title>关于我</title>
+    <link href="http://tobinzuo.github.io/2018/11/17/aboutme/"/>
+    <id>http://tobinzuo.github.io/2018/11/17/aboutme/</id>
     <published>2018-11-16T20:26:01.738Z</published>
-    <updated>2018-11-17T04:57:18.769Z</updated>
+    <updated>2018-11-17T07:19:14.429Z</updated>
     
-    <content type="html"><![CDATA[<p>每天都要加油鸭。</p>]]></content>
+    <content type="html"><![CDATA[<p>我现在就读于浙江大学计算机科学与技术学院，硕士。<br>本科不是学这个的，现正在疯狂学习中。<br>我对数据挖掘，机器学习，深度学习有浓厚的兴趣，这个博客主要记录我的学习经历。<br>希望二十年后，回首半生，我们不为碌碌无为而羞耻。<br>我的信条是做有价值的事，做靠谱的人。<br>希望这个世界因为我的存在而变得更美好。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;每天都要加油鸭。&lt;/p&gt;
-
+        &lt;p&gt;我现在就读于浙江大学计算机科学与技术学院，硕士。&lt;br&gt;本科不是学这个的，现正在疯狂学习中。&lt;br&gt;我对数据挖掘，机器学习，深度学习有浓厚的兴趣，这个博客主要记录我的学习经历。&lt;br&gt;希望二十年后，回首半生，我们不为碌碌无为而羞耻。&lt;br&gt;我的信条是做有价值的事，做靠谱的人
       
     
     </summary>
     
     
-      <category term="随笔" scheme="http://tobinzuo.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="Tobin" scheme="http://tobinzuo.github.io/tags/Tobin/"/>
     
   </entry>
   
