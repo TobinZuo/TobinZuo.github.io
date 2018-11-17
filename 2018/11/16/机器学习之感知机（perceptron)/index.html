@@ -29,17 +29,17 @@
 <meta property="og:site_name" content="爱生活，爱露露">
 <meta property="og:description" content="什么是感知机定义：假设输入空间（特征空间）$X \subseteq R^n$,输出空间是$Y={-1,+1}$,输入$x \in X$,表示实例的特征向量，对于输入空间（特征空间）中的点，输出$y \in Y$是表示实例的类别。由输入空间到输出空间的如下函数，$f(x)=sign(w \cdot x +b)$称为感知机，其中$w$和$b$称为感知机的参数。$sign$函数如下。$$sign(x)=">
 <meta property="og:locale" content="Chinese">
-<meta property="og:image" content="http://tobinzuo.github.io/2018/11/16/机器学习之感知机（perceptron)/output_2_0.png">
-<meta property="og:image" content="http://tobinzuo.github.io/2018/11/16/机器学习之感知机（perceptron)/output_3_0.png">
-<meta property="og:updated_time" content="2018-11-16T17:11:19.835Z">
+<meta property="og:image" content="http://tobinzuo.github.io/2018/11/16/机器学习之感知机（perceptron)/output_1.png">
+<meta property="og:image" content="http://tobinzuo.github.io/2018/11/16/机器学习之感知机（perceptron)/output_2.png">
+<meta property="og:updated_time" content="2018-11-17T05:20:24.789Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="[机器学习] 感知机">
 <meta name="twitter:description" content="什么是感知机定义：假设输入空间（特征空间）$X \subseteq R^n$,输出空间是$Y={-1,+1}$,输入$x \in X$,表示实例的特征向量，对于输入空间（特征空间）中的点，输出$y \in Y$是表示实例的类别。由输入空间到输出空间的如下函数，$f(x)=sign(w \cdot x +b)$称为感知机，其中$w$和$b$称为感知机的参数。$sign$函数如下。$$sign(x)=">
-<meta name="twitter:image" content="http://tobinzuo.github.io/2018/11/16/机器学习之感知机（perceptron)/output_2_0.png">
+<meta name="twitter:image" content="http://tobinzuo.github.io/2018/11/16/机器学习之感知机（perceptron)/output_1.png">
     
-        <link rel="alternate" type="application/atom+xml" title="爱生活，爱露露" href="/atom.xml">
+        <link rel="alternate" type="application/atom+xml" title="爱生活，爱露露" href="../../../../atom.xml">
     
-    <link rel="shortcut icon" href="/book.ico">
+    <link rel="shortcut icon" href="../../../../favicon.ico">
     <link rel="stylesheet" href="//unpkg.com/hexo-theme-material-indigo@latest/css/style.css">
     <script>window.lazyScripts=[]</script>
 
@@ -56,10 +56,10 @@
     <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menu-off">
         <i class="icon icon-lg icon-close"></i>
     </a>
-    <div class="brand-wrap" style="background-image:url(/img/brand.jpg)">
+    <div class="brand-wrap" style="background-image:url(../../../../img/brand.jpg)">
       <div class="brand">
-        <a href="/" class="avatar waves-effect waves-circle waves-light">
-          <img src="/img/avatar.jpg">
+        <a href="../../../../index.html" class="avatar waves-effect waves-circle waves-light">
+          <img src="../../../../img/avatar.jpg">
         </a>
         <hgroup class="introduce">
           <h5 class="nickname">Tobin</h5>
@@ -71,28 +71,28 @@
       <ul class="nav">
         
             <li class="waves-block waves-effect">
-              <a href="/">
+              <a href="../../../../index.html">
                 <i class="icon icon-lg icon-home"></i>
                 主页
               </a>
             </li>
         
             <li class="waves-block waves-effect">
-              <a href="/archives">
+              <a href="../../../../archives">
                 <i class="icon icon-lg icon-archives"></i>
                 Archives
               </a>
             </li>
         
             <li class="waves-block waves-effect">
-              <a href="/tags">
+              <a href="../../../../tags">
                 <i class="icon icon-lg icon-tags"></i>
                 Tags
               </a>
             </li>
         
             <li class="waves-block waves-effect">
-              <a href="/categories">
+              <a href="../../../../categories">
                 <i class="icon icon-lg icon-th-list"></i>
                 Categories
               </a>
@@ -210,17 +210,17 @@
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="output_2_0.png" alt="output_2_0.png" title="">
+                    <img src="//tobinzuo.github.io/2018/11/16/机器学习之感知机（perceptron)/output_1.png" alt="output_1.png" title="">
                 </div>
-                <div class="image-caption">output_2_0.png</div>
+                <div class="image-caption">output_1.png</div>
             </figure>
 <figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#感知机算法</span></span><br><span class="line">w = np.array([<span class="number">1</span>, <span class="number">1</span>])</span><br><span class="line">b = <span class="number">3</span></span><br><span class="line">eta = <span class="number">0.5</span></span><br><span class="line"><span class="keyword">while</span> <span class="keyword">True</span>:</span><br><span class="line">    num = <span class="number">0</span></span><br><span class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> range(len(datas)):</span><br><span class="line">        num = num + <span class="number">1</span></span><br><span class="line">        x = xArr[i]</span><br><span class="line">        y = yArr[i]</span><br><span class="line">        z = y*(np.dot(w,x)+b)</span><br><span class="line">        <span class="keyword">if</span> z &lt;= <span class="number">0</span>:</span><br><span class="line">            w = w+eta*y*x</span><br><span class="line">            b = b+eta*y</span><br><span class="line">            num = <span class="number">0</span> <span class="comment"># 只要更新一次，强制令num=0，否则到最后一个数据不满足条件更新后，会直接跳出，而此时并不满足条件。</span></span><br><span class="line">            <span class="keyword">break</span></span><br><span class="line">    <span class="keyword">if</span> num &gt;= len(datas):</span><br><span class="line">        <span class="keyword">break</span></span><br><span class="line">fig = plt.figure(<span class="string">'Output Figure'</span>)</span><br><span class="line">plt.title(<span class="string">'Perception 输出平面'</span>)</span><br><span class="line">x0 =np.linspace(<span class="number">0</span>,<span class="number">5</span>,<span class="number">100</span>)</span><br><span class="line">w0 = w[<span class="number">0</span>]</span><br><span class="line">w1 = w[<span class="number">1</span>]</span><br><span class="line">x1 = -(w0/w1)*x0-b/w1</span><br><span class="line">plt.xlabel(<span class="string">'x0'</span>,fontsize=<span class="number">15</span>)</span><br><span class="line">plt.ylabel(<span class="string">'x1'</span>,fontsize=<span class="number">15</span>)</span><br><span class="line">plt.plot(x0,x1,<span class="string">'k'</span>, lw=<span class="number">1</span>)</span><br><span class="line">pPlot1,pPlot2 = plt.plot(xPlotx,xPloty,<span class="string">'b+'</span>,xPlotx_,xPloty_,<span class="string">'rx'</span>)</span><br><span class="line">plt.legend(handles = [pPlot1,pPlot2],labels=[<span class="string">'Positive Sample'</span>,<span class="string">'Negtive Sample'</span>],loc=<span class="string">'upper right'</span>)</span><br><span class="line">plt.annotate(<span class="string">'Output Hyperplane'</span>,xy=(<span class="number">2.0</span>,<span class="number">3.0</span>),xytext=(<span class="number">1.7</span>,<span class="number">3.5</span>)) <span class="comment"># 图形注释 # xy设置箭头尖的坐标,xytext设置注释内容显示的起始位置</span></span><br><span class="line"></span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="output_3_0.png" alt="output_3_0.png" title="">
+                    <img src="//tobinzuo.github.io/2018/11/16/机器学习之感知机（perceptron)/output_2.png" alt="output_2.png" title="">
                 </div>
-                <div class="image-caption">output_3_0.png</div>
+                <div class="image-caption">output_2.png</div>
             </figure>
 <ul>
 <li><a href="https://blog.csdn.net/u014630987/article/details/78670258" target="_blank" rel="noopener">Hexo中如何配置mathjax</a></li>
@@ -234,7 +234,7 @@
     <div class="content">
         
 <span class="post-time">
-    最終更新：<time datetime="2018-11-16T17:11:19.835Z" itemprop="dateUpdated">2018-11-17 01:11:19</time>
+    最終更新：<time datetime="2018-11-17T05:20:24.789Z" itemprop="dateUpdated">2018-11-17 13:20:24</time>
 </span><br>
 
 
@@ -245,7 +245,7 @@
     
     <footer>
         <a href="http://tobinzuo.github.io">
-            <img src="/img/avatar.jpg" alt="Tobin">
+            <img src="../../../../img/avatar.jpg" alt="Tobin">
             Tobin
         </a>
     </footer>
@@ -260,7 +260,7 @@
 
         <div class="post-footer">
             
-	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/机器学习/">机器学习</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/神经网络/">神经网络</a></li></ul>
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="../../../../tags/机器学习/">机器学习</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="../../../../tags/神经网络/">神经网络</a></li></ul>
 
 
             
@@ -318,7 +318,7 @@
 <nav class="post-nav flex-row flex-justify-between">
   
     <div class="waves-block waves-effect prev">
-      <a href="/2018/11/17/hello-world/" id="post-prev" class="post-nav-link">
+      <a href="../../17/hello-world/" id="post-prev" class="post-nav-link">
         <div class="tips"><i class="icon icon-angle-left icon-lg icon-pr"></i> Prev</div>
         <h4 class="title">我想和这个世界谈谈</h4>
       </a>
@@ -360,7 +360,7 @@
     <div class="reward-content">
         
         <div class="reward-code">
-            <img id="rewardCode" src="/img/wechat.png" alt="打赏二维码">
+            <img id="rewardCode" src="../../../../img/wechat.png" alt="打赏二维码">
         </div>
         
     </div>
@@ -385,7 +385,7 @@
 
         <p>
             
-                <span><a href="/atom.xml" target="_blank" class="rss" title="rss"><i class="icon icon-lg icon-rss"></i></a></span>
+                <span><a href="../../../../atom.xml" target="_blank" class="rss" title="rss"><i class="icon icon-lg icon-rss"></i></a></span>
             
             <span>このブログの内容物は<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際ライセンスの下に提供されています</a></span>
         </p>
@@ -394,7 +394,7 @@
         <p><span>Tobin &copy; 2018</span>
             <span>
                 
-                Power by <a href="http://hexo.io/" target="_blank">Hexo</a> Theme <a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank">indigo</a>
+                Theme in <a href="https://github.com/TobinZuo/hexo-theme-indigo" target="_blank">Github</a>
             </span>
         </p>
     </div>
