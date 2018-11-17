@@ -64,4 +64,25 @@
     
   </entry>
   
+  <entry>
+    <title>日志</title>
+    <link href="http://tobinzuo.github.io/2018/11/15/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/"/>
+    <id>http://tobinzuo.github.io/2018/11/15/新建文本文档/</id>
+    <published>2018-11-15T15:48:12.000Z</published>
+    <updated>2018-11-17T16:25:21.512Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018/11/18<br>上线评论系统，增加了gitment enable ，更改了gitment.ejs，按照page.date来区分评论，缩减了部分图片大小<br><a href="https://www.jianshu.com/p/57afa4844aaa" target="_blank" rel="noopener">Gitment评论功能接入踩坑教程</a><br><a href="https://blog.csdn.net/wardseptember/article/details/82828391" target="_blank" rel="noopener">解决gitment无法登陆评论问题（Object ProgressEvent）</a><br><a href="https://jingyan.baidu.com/article/2f9b480de2b5b341cb6cc2be.html" target="_blank" rel="noopener">NexT主题使用gitment评论系统</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2018/11/18&lt;br&gt;上线评论系统，增加了gitment enable ，更改了gitment.ejs，按照page.date来区分评论，缩减了部分图片大小&lt;br&gt;&lt;a href=&quot;https://www.jianshu.com/p/57afa4844aaa&quot; tar
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
 </feed>
