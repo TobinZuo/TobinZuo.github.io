@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>爱生活，爱露露</title>
+  <title>露从今夜白，月是故乡明</title>
   
-  <subtitle>关注科技与人文</subtitle>
+  <subtitle>关注科技与人文，在这个世界留下点痕迹</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tobinzuo.github.io/"/>
-  <updated>2018-11-17T14:00:49.325Z</updated>
+  <updated>2018-11-17T14:10:21.322Z</updated>
   <id>http://tobinzuo.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://tobinzuo.github.io/2018/11/17/aboutme/"/>
     <id>http://tobinzuo.github.io/2018/11/17/aboutme/</id>
     <published>2018-11-16T20:26:01.738Z</published>
-    <updated>2018-11-17T14:00:49.325Z</updated>
+    <updated>2018-11-17T14:10:21.322Z</updated>
     
-    <content type="html"><![CDATA[<p><strong> Hey,It’s me! </strong></p><div align="center"><img src="/2018/11/17/aboutme/me.jpg" width="20%" height="20%"></div><br>我现在硕士就读于<strong><em>浙江大学计算机科学与技术学院</em></strong>。正在从事<strong><em>机器学习，数据挖掘，深度学习</em></strong>相关的学习工作。本博客使用的是<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">hexo</a>开源工具，主题为<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="noopener">indigo</a>，感谢这个开源的世界。我建这个博客的初衷是记录自己对科技和人文的思考。希望二十年后，我们回首半生，不为碌碌无为而羞愧。我的信条是做有价值的事，做靠谱的人。<br><strong> 愿这个世界因为我们的存在而变得更美好~ </strong><br><div align="center"><img src="/2018/11/17/aboutme/weixin.png" width="20%" height="20%"></div>]]></content>
+    <content type="html"><![CDATA[<p><strong> Hey,It’s me! </strong></p><div align="center"><img src="/2018/11/17/aboutme/me.jpg" width="20%" height="20%"></div><br>我现在硕士就读于<strong><em>浙江大学计算机科学与技术学院</em></strong>。正在从事<strong><em>机器学习，数据挖掘，深度学习</em></strong>相关的学习和工作。本博客使用的是<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">hexo</a>开源工具，主题为<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="noopener">indigo</a>，感谢这个开源的世界。我建这个博客的初衷是记录自己对科技和人文的思考。希望二十年后，我们回首半生，不为碌碌无为而羞愧。我的信条是做有价值的事，做靠谱的人。<br><strong> 愿这个世界因为我们的存在而变得更美好~ </strong><br><div align="center"><img src="/2018/11/17/aboutme/weixin.png" width="20%" height="20%"></div>]]></content>
     
     <summary type="html">
     
