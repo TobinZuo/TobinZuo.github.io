@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tobinzuo.github.io/"/>
-  <updated>2018-11-17T09:54:55.130Z</updated>
+  <updated>2018-11-17T13:40:32.487Z</updated>
   <id>http://tobinzuo.github.io/</id>
   
   <author>
@@ -21,18 +21,15 @@
     <link href="http://tobinzuo.github.io/2018/11/17/aboutme/"/>
     <id>http://tobinzuo.github.io/2018/11/17/aboutme/</id>
     <published>2018-11-16T20:26:01.738Z</published>
-    <updated>2018-11-17T09:54:55.130Z</updated>
+    <updated>2018-11-17T13:40:32.487Z</updated>
     
-    <content type="html"><![CDATA[<p>Hey,It’s me!<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="/2018/11/17/aboutme/me.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br>我现在硕士就读于浙江大学计算机科学与技术学院。对机器学习，数据挖掘，深度学习有浓厚的兴趣。<br>本博客使用的是<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">hexo</a>开源工具，主题为<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="noopener">indigo</a>，感谢这个开源的世界。<br>我建这个博客的初衷是记录自己对科技和人文的思考。希望二十年后，我们回首半生，不为碌碌无为而羞愧。<br>我的信条是做有价值的事，做靠谱的人。欢迎联系我和我做朋友。<br><strong> 愿这个世界因为我们的存在而变得更美好~ </strong><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="/2018/11/17/aboutme/weixin.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p>]]></content>
+    <content type="html"><![CDATA[<p>Hey,It’s me!<br><img src="/2018/11/17/aboutme/me.jpg" width="30%" height="30%"><br>我现在硕士就读于浙江大学计算机科学与技术学院。对机器学习，数据挖掘，深度学习有浓厚的兴趣。<br>本博客使用的是<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">hexo</a>开源工具，主题为<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="noopener">indigo</a>，感谢这个开源的世界。<br>我建这个博客的初衷是记录自己对科技和人文的思考。希望二十年后，我们回首半生，不为碌碌无为而羞愧。<br>我的信条是做有价值的事，做靠谱的人。欢迎联系我和我做朋友。<br><strong> 愿这个世界因为我们的存在而变得更美好~ </strong><br><img src="/2018/11/17/aboutme/weixin.png" width="30%" height="30%" align="center">    </p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Hey,It’s me!&lt;br&gt;&lt;figure class=&quot;image-bubble&quot;&gt;
-                &lt;div class=&quot;img-lightbox&quot;&gt;
-                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
-
+        &lt;p&gt;Hey,It’s me!&lt;br&gt;&lt;img src=&quot;/2018/11/17/aboutme/me.jpg&quot; width=&quot;30%&quot; height=&quot;30%&quot;&gt;&lt;br&gt;我现在硕士就读于浙江大学计算机科学与技术学院。对机器学习，数据挖掘，深度学习有浓厚的兴趣。&lt;br&gt;本博客使用
       
     
     </summary>
