@@ -65,19 +65,23 @@
   </entry>
   
   <entry>
-    <title>日志</title>
-    <link href="http://tobinzuo.github.io/2018/11/15/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/"/>
-    <id>http://tobinzuo.github.io/2018/11/15/新建文本文档/</id>
+    <title>更新日志</title>
+    <link href="http://tobinzuo.github.io/2018/11/15/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    <id>http://tobinzuo.github.io/2018/11/15/更新日志/</id>
     <published>2018-11-15T15:48:12.000Z</published>
-    <updated>2018-11-17T16:25:21.512Z</updated>
+    <updated>2018-11-17T17:06:59.527Z</updated>
     
-    <content type="html"><![CDATA[<p>2018/11/18<br>上线评论系统，增加了gitment enable ，更改了gitment.ejs，按照page.date来区分评论，缩减了部分图片大小<br><a href="https://www.jianshu.com/p/57afa4844aaa" target="_blank" rel="noopener">Gitment评论功能接入踩坑教程</a><br><a href="https://blog.csdn.net/wardseptember/article/details/82828391" target="_blank" rel="noopener">解决gitment无法登陆评论问题（Object ProgressEvent）</a><br><a href="https://jingyan.baidu.com/article/2f9b480de2b5b341cb6cc2be.html" target="_blank" rel="noopener">NexT主题使用gitment评论系统</a></p>]]></content>
+    <content type="html"><![CDATA[<p>2018/11/18</p><ul><li>上线评论系统，增加了gitment enable ，更改了gitment.ejs，按照page.date来区分评论。</li><li>缩减了部分图片大小。</li><li>解决了部分日志无法登陆评论的问题，原因是文件名称中带有括号<br><a href="https://www.jianshu.com/p/57afa4844aaa" target="_blank" rel="noopener">Gitment评论功能接入踩坑教程</a><br><a href="https://blog.csdn.net/wardseptember/article/details/82828391" target="_blank" rel="noopener">解决gitment无法登陆评论问题（Object ProgressEvent）</a><br><a href="https://jingyan.baidu.com/article/2f9b480de2b5b341cb6cc2be.html" target="_blank" rel="noopener">NexT主题使用gitment评论系统</a></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;2018/11/18&lt;br&gt;上线评论系统，增加了gitment enable ，更改了gitment.ejs，按照page.date来区分评论，缩减了部分图片大小&lt;br&gt;&lt;a href=&quot;https://www.jianshu.com/p/57afa4844aaa&quot; tar
+        &lt;p&gt;2018/11/18&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;上线评论系统，增加了gitment enable ，更改了gitment.ejs，按照page.date来区分评论。&lt;/li&gt;
+&lt;li&gt;缩减了部分图片大小。&lt;/li&gt;
+&lt;li&gt;解决了部分日志无法登陆评论的问题，原因是文件名称中
       
     
     </summary>
