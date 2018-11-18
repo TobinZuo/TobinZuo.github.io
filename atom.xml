@@ -67,15 +67,15 @@
     <link href="http://tobinzuo.github.io/2018/11/15/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
     <id>http://tobinzuo.github.io/2018/11/15/更新日志/</id>
     <published>2018-11-15T15:48:12.000Z</published>
-    <updated>2018-11-17T17:09:28.308Z</updated>
+    <updated>2018-11-18T08:26:11.629Z</updated>
     
-    <content type="html"><![CDATA[<p><strong> 2018/11/18 </strong></p><ul><li>上线评论系统，增加了gitment enable ，更改了gitment.ejs，按照page.date来区分评论。</li><li>缩减了部分图片大小。</li><li>解决了部分日志无法登陆评论的问题，原因是文件名称中带有括号<br><a href="https://www.jianshu.com/p/57afa4844aaa" target="_blank" rel="noopener">Gitment评论功能接入踩坑教程</a><br><a href="https://blog.csdn.net/wardseptember/article/details/82828391" target="_blank" rel="noopener">解决gitment无法登陆评论问题（Object ProgressEvent）</a><br><a href="https://jingyan.baidu.com/article/2f9b480de2b5b341cb6cc2be.html" target="_blank" rel="noopener">NexT主题使用gitment评论系统</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p><strong> 2018/11/17 </strong></p><ul><li>上线评论系统，增加了gitment enable ，更改了gitment.ejs，按照page.date来区分评论。</li><li>缩减了部分图片大小。</li><li>解决了部分日志无法登陆评论的问题，原因是文件名称中带有括号<br><a href="https://www.jianshu.com/p/57afa4844aaa" target="_blank" rel="noopener">Gitment评论功能接入踩坑教程</a><br><a href="https://blog.csdn.net/wardseptember/article/details/82828391" target="_blank" rel="noopener">解决gitment无法登陆评论问题（Object ProgressEvent）</a><br><a href="https://jingyan.baidu.com/article/2f9b480de2b5b341cb6cc2be.html" target="_blank" rel="noopener">NexT主题使用gitment评论系统</a></li></ul><p><strong> 2018/11/18 </strong></p><ul><li>上线valine评论插件，gitment使用不便。</li><li>Valine 目前使用的是Gravatar 作为评论列表头像。请自行登录或注册Gravatar，然后修改自己的头像。评论的时候，留下在Gravatar注册时所使用的邮箱即可。<br><a href="https://valine.js.org/quickstart.html" target="_blank" rel="noopener">Valine</a><br><a href="https://en.gravatar.com/" target="_blank" rel="noopener">Gravatar</a></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;strong&gt; 2018/11/18 &lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt; 2018/11/17 &lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;上线评论系统，增加了gitment enable ，更改了gitment.ejs，按照page.date来区分评论。&lt;/li&gt;
 &lt;li&gt;缩减了部分图片大小。&lt;/li&gt;
